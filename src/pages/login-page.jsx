@@ -126,7 +126,7 @@ export default function LoginPage() {
             </p>
           </Card>
 
-          <Card className="h-full p-6" title="Agentix AI - How To Signup" subtitle="Next level auto-marketing AI agents">
+          <Card className="h-full p-6" title="DigiAgents - How To Signup" subtitle="Next level auto-marketing AI agents">
             {loading ? <LoadingSpinner label="Verifying session..." /> : null}
             <ul className="mt-2 list-disc space-y-2 pl-4 text-sm text-text-dim">
               <li>Create an account to get started.</li>
